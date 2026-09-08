@@ -1,2 +1,6 @@
 *.zip filter=lfs diff=lfs merge=lfs -text
 *.7z filter=lfs diff=lfs merge=lfs -text
+信息论：基础理论与应用(未知版本).pdf filter=lfs diff=lfs merge=lfs -text
+自动控制原理[[:space:]]非自动化类[[:space:]](王万良，赵燕伟编著；赵光宙主审,[[:space:]]王万良,[[:space:]]赵燕伟编著,[[:space:]]王万良,[[:space:]]赵燕伟,[[:space:]]王万良[[:space:]]etc.).pdf filter=lfs diff=lfs merge=lfs -text
+Java[[:space:]]2实用教程（第5版）[[:space:]](耿祥义；张跃平)[[:space:]].pdf filter=lfs diff=lfs merge=lfs -text
+信息论[[:space:]]基础理论与应用[[:space:]]第4版[[:space:]](傅祖芸)[[:space:]].pdf filter=lfs diff=lfs merge=lfs -text
